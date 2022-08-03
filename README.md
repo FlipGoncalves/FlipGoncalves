@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<img width="100%" alt="Developer Illustration" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Illustration.gif"/>
+<img width="100%" alt="Developer Illustration" src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/ezgif-1833955273.gif"/>
 <br />
 <br />
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
