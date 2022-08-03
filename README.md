@@ -46,16 +46,14 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything **[here](https://github.com/FlipGoncalves/FlipGoncalves/issues/new)** or <a href="mailto:filipegonc@outlook.com"><b>send me an email</b></a>.
 <br />
 <br />
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flipgoncalves&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flipgoncalves&theme=github_dark)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=flipgoncalves&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight_duo" alt="Abdo Achhoubi Github Stats">
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flipgoncalves&theme=tokyonight_duoA" alt="Abdo Achhoubi Top Languages"/>
-<br />
-<br />
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=flipgoncalves&show_icons=true&theme=github_dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=flipgoncalves&theme=tokyonight_duo" alt="mystreak"/>
-<br />
-<br />
+  
+[![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=flipgoncalves&theme=react-dark)](AkuraDiary)
 </div>
 
 <div align="center">
