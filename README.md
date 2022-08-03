@@ -44,7 +44,6 @@ I've recently graduated from Computer Engineering in Universidade de Aveiro.
 I'm currently based in **[Aveiro, Portugal.](https://www.google.pt/maps/place/R.+Dr.+Francisco+Ferreira+Neves+10,+3800-241+Aveiro/@40.6476121,-8.6465161,17.42z/data=!4m13!1m7!3m6!1s0xd23980ed5b2e78d:0x3042e1cd013c1f07!2sAveiro!3b1!8m2!3d40.6405055!4d-8.6537539!3m4!1s0xd239811a44d2d07:0xe5762541cf63eb5f!8m2!3d40.6470039!4d-8.6454487?hl=pt-PT)**
   
 <br />
-<br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
 Ask me anything **[here](https://github.com/FlipGoncalves/FlipGoncalves/issues/new)** or <a href="mailto:filipegonc@outlook.com"><b>send me an email</b></a>.
@@ -52,6 +51,7 @@ Ask me anything **[here](https://github.com/FlipGoncalves/FlipGoncalves/issues/n
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=flipgoncalves&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
+<br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flipgoncalves&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
 <br />
