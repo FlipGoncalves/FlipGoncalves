@@ -50,5 +50,5 @@ Ask me anything **[here](https://github.com/FlipGoncalves/FlipGoncalves/issues/n
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flipgoncalves&theme=github_dark)
 ![FlipGoncalves's github stats](https://github-readme-stats.vercel.app/api?username=flipgoncalves&show_icons=true&theme=github_dark)
   
-[![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=flipgoncalves&theme=react-dark)](AkuraDiary)
+[![FlipGoncalves's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=flipgoncalves&theme=react-dark)](AkuraDiary)
 </div>
