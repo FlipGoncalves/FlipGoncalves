@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-I've recently graduated from Computer Engineering in Universidade de Aveiro.
+I have a Bachelor's degree in Informatics Engineer, and I am currently studying in the Robotics and Intelligent System's Master degree in Universidade de Aveiro.
   
 <br />
 
