@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-I have a Bachelor's degree in Informatics Engineer, and I am currently studying in the Robotics and Intelligent System's Master degree in Universidade de Aveiro.
+I have a Bachelor's degree in Informatics Engineer as well as a Master's in Robotics and Intelligent Systems from Universidade de Aveiro.
+I'm currently looking for a Full Stack job either with .NET or Python!
   
 <br />
 
